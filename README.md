@@ -36,7 +36,7 @@ purposes.</p>
 <p>Users should be able to submit queries or requests for assistance regarding system
 functionality.</p>
 <h1>Flow chart</h1>
-href="[flow](https://github.com/sahebkumar3155/FACE-RECOGNITION-BASED-ATTENDANCE_SYSTEM/assets/113451461/9d0af6fb-c0e5-4d40-81d6-efdcfba78f03)"
+<img align="right" alt="Coding" width="400" src="https://github.com/sahebkumar3155/FACE-RECOGNITION-BASED-ATTENDANCE_SYSTEM/assets/113451461/9d0af6fb-c0e5-4d40-81d6-efdcfba78f03">
 
 # Non-functional Requirements:
 <h1>Accuracy</h1>
