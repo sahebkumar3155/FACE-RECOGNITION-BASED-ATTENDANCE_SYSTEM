@@ -1,10 +1,10 @@
 # FACE-RECOGNITION-BASED-ATTENDANCE_SYSTEM
-Introduction:
-The Face Recognition Based Attendance System aims to automate the traditional
-attendance tracking process using facial recognition technology. This system
-eliminates the need for manual attendance marking, providing a more efficient and
-accurate solution for educational institutions or organisations.
-Functional Requirements:
+# Introduction:
+  <p> The Face Recognition Based Attendance System aims to automate the traditional
+  attendance tracking process using facial recognition technology. This system
+  eliminates the need for manual attendance marking, providing a more efficient and
+  accurate solution for educational institutions or organisations.</p>
+# Functional Requirements:
 User Registration:
 Users should be able to register with their email and password to access the system.
 Login:
