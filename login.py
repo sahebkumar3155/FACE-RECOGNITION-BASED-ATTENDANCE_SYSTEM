@@ -332,6 +332,7 @@ class face_recognition_system:
         imag10=imag10.resize((220,220),Image.ANTIALIAS)
         self.photoimg10=ImageTk.PhotoImage(imag10)
 
+
         b1=Button(bg_img,image=self.photoimg10,cursor="hand2")
         b1.place(x=800,y=400,width=220,height=220)
 
@@ -351,8 +352,6 @@ class face_recognition_system:
         b1_1=Button(bg_img,text="Exit",cursor="hand2",font=("times new romain",15,"bold"),bg="white",fg="black")
         b1_1.place(x=1100,y=600,width=220,height=40)
 
-    
-
     # ========== photo button work ==========
     def open_img(self):
         directory = r"L:\alpha batch 5.0\python for placement\face recognition attendence system\data"
@@ -363,8 +362,6 @@ class face_recognition_system:
                 mb.showwarning("Directory Error", "The 'data' directory does not exist or is empty.")
         except Exception as e:
             mb.showerror("Error", f"An error occurred: {str(e)}")
-
-
 
 
         # =======================Functiono Button=============================
